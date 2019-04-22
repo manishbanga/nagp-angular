@@ -1,0 +1,33 @@
+[
+    {
+    "doc_name": "Domicile certificate",
+    "is_domestic_mandatory": true,
+    "selected":false
+    },
+    {
+        "doc_name": "Birth certificate",
+        "is_domestic_mandatory": true,
+        "selected":false
+    },
+    {
+    "doc_name": "Previous marksheet",
+    "is_domestic_mandatory": true,
+    "selected":false
+    },
+    {
+        "doc_name": "Police clearance",
+        "is_domestic_mandatory": false,
+        "selected":false
+    },
+    {
+        "doc_name": "Passport",
+        "is_domestic_mandatory": false,
+        "selected":false
+    },
+    {
+        "doc_name": "Signed Declaration",
+        "is_domestic_mandatory": true,
+        "selected":false
+    }
+
+]
